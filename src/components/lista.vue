@@ -1,7 +1,7 @@
 <template>
   <div>
     <table style="width:100%">
-      <caption>Tus últimos libros</caption>
+      <caption>Tus últimos libross</caption>
       <tr>
         <th>Nombre de Libro</th>
         <th>Nombre de Autor</th>

@@ -14,7 +14,7 @@
     <pre>Lorem ipsum dolor sit amet consectetur, adipiscing
       elit porttitor ultricies per, litora mollis justo urna.
       Suscipit habitasse est quis erat imperdiet interdum
-      facilisis, congue praesent neque gravida tinciduntt.</pre>
+      facilisis, congue praesent neque gravida tincidunttt.</pre>
   </div>
 </template>
 

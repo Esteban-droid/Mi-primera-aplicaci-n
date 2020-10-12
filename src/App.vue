@@ -3,14 +3,12 @@
     <img alt="Vue logo" src="./assets/psicologia.png">
     <!--<HelloWorld msg="Mi primera aplicación"/>-->
     <ejemplo></ejemplo>
-    <lista></lista>
 
   </div>
 </template>
 
 <script>
   //import HelloWorld from './components/HelloWorld.vue'
-  import lista from './components/lista.vue'
   import ejemplo from './components/ejemplo.vue'
 
 
@@ -19,7 +17,6 @@ export default {
   components: {
     //HelloWorld,
     ejemplo,
-    lista,
 
   }
 }

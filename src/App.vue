@@ -2,22 +2,22 @@
   <div id="app">
     <img alt="Vue logo" src="./assets/psicologia.png">
     <!--<HelloWorld msg="Mi primera aplicación"/>-->
-    <ejemplo></ejemplo>
-
+    <Login></Login>
+    <!--<Principal></Principal>-->
   </div>
 </template>
 
 <script>
   //import HelloWorld from './components/HelloWorld.vue'
-  import ejemplo from './components/ejemplo.vue'
-
+  import Login from "@/components/Login";
+  //import Principal from "@/components/Principal";
 
 export default {
   name: 'App',
   components: {
+    Login,
+    //Principal,
     //HelloWorld,
-    ejemplo,
-
   }
 }
 </script>

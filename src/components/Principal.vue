@@ -38,7 +38,7 @@
 
 <script>
 export default {
-name: "ejemplo"
+name: "Principal"
 }
 </script>
 
